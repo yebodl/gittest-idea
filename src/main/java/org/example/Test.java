@@ -22,6 +22,8 @@ public class Test {
         //怎么办
         System.out.println("测试冲突4");
         System.out.println("测试冲突3");
+        //合并冲突
+        //怎么办
         System.out.println("测试冲突5");
         System.out.println("测试冲突6");
 
