@@ -12,7 +12,10 @@ public class Test {
 
         //这里要做什么
         //继续测试
-        
+
+        System.out.println("测试冲突1");
+        System.out.println("测试冲突2");
+
     }
 
 
