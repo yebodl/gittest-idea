@@ -16,6 +16,10 @@ public class Test {
         System.out.println("测试冲突1");
         System.out.println("测试冲突2");
 
+
+        //合并冲突
+        //怎么办
+
     }
 
 
