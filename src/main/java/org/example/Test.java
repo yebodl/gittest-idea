@@ -10,6 +10,9 @@ public class Test {
         System.out.println("push github");
         System.out.println("pull github");
 
+         //合并冲突
+        //怎么办
+        
         //这里要做什么
         //继续测试
 
